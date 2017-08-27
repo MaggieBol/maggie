@@ -1,0 +1,6 @@
+c:\users\mbolshakova\documents\visual studio 2015\Projects\Mod2_Lab1\Mod2_Lab1\bin\Debug\Mod2_Lab1.exe.config
+c:\users\mbolshakova\documents\visual studio 2015\Projects\Mod2_Lab1\Mod2_Lab1\bin\Debug\Mod2_Lab1.exe
+c:\users\mbolshakova\documents\visual studio 2015\Projects\Mod2_Lab1\Mod2_Lab1\bin\Debug\Mod2_Lab1.pdb
+c:\users\mbolshakova\documents\visual studio 2015\Projects\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.csprojResolveAssemblyReference.cache
+c:\users\mbolshakova\documents\visual studio 2015\Projects\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.exe
+c:\users\mbolshakova\documents\visual studio 2015\Projects\Mod2_Lab1\Mod2_Lab1\obj\Debug\Mod2_Lab1.pdb
